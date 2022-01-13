@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Daftar Fashion</string>
+    // Layout
+    <string name="pilih_gambar">(Ketuk gambar untuk membuka galeri)</string>
+    <string name="pilih_profil">(Klik tombol untuk membuka profil)</string>
+    <string name="daftar_brand_judul">Daftar Fashion</string>
+    <string name="go_back">Kembali</string>
+    <string name="gamis">Gamis</string>
+    <string name="hijab">Hijab</string>
+    <string name="mukenah">Mukenah</string>
+    <string name="daftar_model_gamis">Daftar Model Gamis</string>
+    <string name="daftar_model_hijab">Daftar Model Hijab</string>
+    <string name="daftar_model_mukenah">Daftar Model Mukenah</string>
+    // Data gamis
+    <string name="lengan_lonceng_merek">Lengan Lonceng Mandalika</string>
+    <string name="lengan_lonceng_model">Poliester</string>
+    <string name="lengan_lonceng_deskripsi">Gamis dengan warna teracotta yang memiliki donasi warna earthy tone ini sangatlah elegan untuk dikenakan di keseharian.</string>
+    <string name="marwah_two_tone_merek">Marwah Two tone</string>
+    <string name="marwah_two_tone_model">Moscrepe</string>
+    <string name="marwah_two_tone_deskripsi">Gamis syari dengan kombinasi dua warna yang klasik menjadi salah satu model gamis yang layak untuk koleksi.</string>
+    <string name="maxi_dress_merek">Maxi dress</string>
+    <string name="maxi_dress_model">poliester</string>
+    <string name="maxi_dress_deskripsi">Maxi dress dengan pola cuttingyang asimetrik dengan motif flora yang cantik membuat tampilan hijabers terlihat feminim secara instan.</string>
+    <string name="flowy_polos_merek">flowy polos</string>
+    <string name="flowy_polos__model">Arabian Crepe</string>
+    <string name="flowy_polos_deskripsi">Dengan material arabian crepe premium, gamis ini akan terasa nyaman, adem tapi tidak menerawang.</string>
+    <string name="motif_stripes_merek">Motif Stripes</string>
+    <string name="motif_stripes_model">katun</string>
+    <string name="motif_stripes_deskripsi">gamis model kancing depannya yang simpel dan klasik membuat hijabers terutama busui merasa nyamamn  mengenakannya.</string>
+    <string name="simpel_timeless_merek">simpel timeless</string>
+    <string name="simpel_timeless_model">Jersy</string>
+    <string name="simpel_timeless_deskripsi">gamis dengan potongan simpel, model lurus yang satu ini bisa jadi andalan yang tepat untuk tampil kasual hingga formal kondangan.</string>
+    // Data hijab
+    <string name="pasmina_merek">Pasmina</string>
+    <string name="pasmina_model">Wolfis</string>
+    <string name="pasmina_deskripsi">Hijab pasmina wolfis ukuran jumbo cocok unrtuk dipakai untuk muslimah yang ingin tampil elegan dan menutup aurrat.</string>
+    <string name="bergo_sport_merek">Bergo sport</string>
+    <string name="bergo_sport_model">jersy</string>
+    <string name="bergo_sport_deskripsi">Bergo sport jersy  dengan desain yang simpel sangat cocok untuk kita yang suka berolahraga.</string>
+    <string name="instan_syaria_merek">Instan syaria</string>
+    <string name="instan_syaria_model">Wolfis Grade A</string>
+    <string name="instan_syaria_deskripsi">Hijab instan syaria bergo dengan bahan wolfis grade A yang adem tidak mudah kusut dan tidak menerawang sangat cocok untuk dipai sehari-hari.</string>
+    <string name="segitempat_merek">Segitempat</string>
+    <string name="segitempat_model">Wolfis</string>
+    <string name="segitempat_deskripsi">segiempat wolfis dengan ukuran 115 130 dan 150 sangat cocok untuk dipakai sehari-hari.</string>
+    <string name="bergo_non_pet_merek">Bergo Non pet</string>
+    <string name="bergo_non_pet_model">Wolfis</string>
+    <string name="bergo_non_pet_deskripsi">Bergo non pet antem dengan ukuran jumbo sangat cocok untuk pencinta hijab bergo simpel tapi tetap terlihat elegan.</string>
+    <string name="segiempat_syari_merek">segiempat syari</string>
+    <string name="segiempat_syari_model">Wolfis</string>
+    <string name="segiempat_syari_deskripsi">Hijab segiempat dengan bahan wolfis tidak mudah kusut dan tidak menerawang, bagi yang suka pakai cadar sangat cocok karena dapat free cadar.</string>
+    // Data mukenah
+    <string name="maxmar_printing_merek">maxmar printing</string>
+    <string name="maxmar_printing_model">Maxmar</string>
+    <string name="maxmar_printing_deskripsi">Mukenah maxmar dilengkapi renda rajut dengan lebar 6 cm ada aksen tali ikat kepala menggunakan tali bukan karet.</string>
+    <string name="rayon_renda_merek">Rayon Renda</string>
+    <string name="rayon_renda_model">Katun Rayon</string>
+    <string name="rayon_renda_deskripsi">Mukenah dewasa katun rayon hadir untuk anda yang mengutamakan kualitas dengan harga yang sangat murah tapi kualitas bahan tetap nomor satu.</string>
+    <string name="katun_printing_merek">Patun Printing</string>
+    <string name="katun_printing_model">Katun Alena</string>
+    <string name="katun_printing_deskripsi">Mukenah dewasa katun renda mikro printing  dengan aksen tali bukan karet membuat tampilan menjadi elegan.</string>
+    <string name="katun_rayon_merek">Katun Rayon</string>
+    <string name="katun_rayon_model">Shifon Series</string>
+    <string name="katun_rayon_deskripsi">Mukenah bali dewasa katun rayon premium renda hadir untuk anda yang mengutamakan kualitas dengan harga yang terjangkau.</string>
+    <string name="katun_jumbo_merek">Katun Jumbo</string>
+    <string name="katun_jumbo_model">Katun</string>
+    <string name="katun_jumbo_deskripsi">Mukenah dewasa katun polos jumbo raniyah series hadir untuk anda yang mementingkan kalitas namun dengan harga terjangkau tapi menggunakan bahan yang tidak mudah kusut dan tidak menerawang.</string>
+    <string name="bordir_renda_merek">Bordir Renda</string>
+    <string name="bordir_renda_model">Katun</string>
+    <string name="bordir_renda_deskripsi">mukenah dewasa bordir renda menggunakan bahan katun mikro yang sangat faliliar digunakan unuk mukenah siti hadijah.</string>
+    // Data profil
+    <string name="nama">Nama  :</string>
+    <string name="nim">NIM  :</string>
+    <string name="prodi">Jurusan  :</string>
+    <string name="alamat">Alamat  :</string>
+</resources>

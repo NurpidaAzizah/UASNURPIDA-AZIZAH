@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Fashion List</string>
+    // Layout
+    <string name="pilih_gambar">(Tap the image to open the gallery)</string>
+    <string name="pilih_profil">(Click button to open profile)</string>
+    <string name="daftar_brand_judul">Fashion List</string>
+    <string name="go_back">Back</string>
+    <string name="gamis">Robe</string>
+    <string name="hijab">Veil</string>
+    <string name="mukenah">Mukenah</string>
+    <string name="daftar_model_gamis">List of Robe Models</string>
+    <string name="daftar_model_hijab">List Of Veil Models</string>
+    <string name="daftar_model_mukenah">List Of Mukenah Models</string>
+    // Data robe
+    <string name="lengan_lonceng_merek"> Bell Sleeve</string>
+    <string name="lengan_lonceng_model">polyester</string>
+    <string name="lengan_lonceng_deskripsi">This robe with teracotta color which has an earthy tone color donation is very elegant to wear in everyday life.</string>
+    <string name="marwah_two_tone_merek">Marwah Two tone</string>
+    <string name="marwah_two_tone_model">Moscrepe</string>
+    <string name="marwah_two_tone_deskripsi">A syari robe with a combination of two classic colors is one of the worthy models for collection.</string>
+    <string name="maxi_dress_merek">Maxi dress</string>
+    <string name="maxi_dress_model">polyester</string>
+    <string name="maxi_dress_deskripsi">Maxi dress with an asymmetrical cutting pattern with beautiful floral motifs makes the hijabers look instantly feminine.</string>
+    <string name="flowy_polos_merek">plain flowy</string>
+    <string name="flowy_polos__model">Arabian Crepe</string>
+    <string name="flowy_polos_deskripsi">With premium arabian crepe material, this robe will feel comfortable, cool but not dreamy.</string>
+    <string name="motif_stripes_merek">Stripes pattern</string>
+    <string name="motif_stripes_model">catton</string>
+    <string name="motif_stripes_deskripsi">The simple and classic front button-up robe makes hijabers especially Busui feel comfortable wearing it.</string>
+    <string name="simpel_timeless_merek">simpele timeless</string>
+    <string name="simpel_timeless_model">Jersey</string>
+    <string name="simpel_timeless_deskripsi">a robe with a simple cut, this straight model can be the right mainstay for a casual look to a formal invitation.</string>
+    // Data veil
+    <string name="pasmina_merek">Pashmina</string>
+    <string name="pasmina_model">Wolfis</string>
+    <string name="pasmina_deskripsi">The pashmina wolfis hijab jumbo size is suitable for Muslim women who want to look elegant and cover their genitals.</string>
+    <string name="bergo_sport_merek">Bergo sport</string>
+    <string name="bergo_sport_model">jersey</string>
+    <string name="bergo_sport_deskripsi">Bergo sport jersey with a simple design is perfect for those of us who like to exercise.</string>
+    <string name="instan_syaria_merek">Instant syaria</string>
+    <string name="instan_syaria_model">Wolfis Grade A</string>
+    <string name="instan_syaria_deskripsi">Instant hijab syaria bergo with wolfis grade A material which is cool, not easily wrinkled and not dreamy, very suitable for everyday wear.</string>
+    <string name="segitempat_merek">Rectangular</string>
+    <string name="segitempat_model">Wolfis</string>
+    <string name="segitempat_deskripsi">Wolfis quadrangle with sizes 115 130 and 150 is perfect for everyday use.</string>
+    <string name="bergo_non_pet_merek">Bergo Non pet</string>
+    <string name="bergo_non_pet_model">Wolfis</string>
+    <string name="bergo_non_pet_deskripsi">Bergo non pet antem with jumbo size is perfect for lovers of hijab bergo simple but still looks elegant.</string>
+    <string name="segiempat_syari_merek">sharia quadrilateral</string>
+    <string name="segiempat_syari_model">Wolfis</string>
+    <string name="segiempat_syari_deskripsi">Rectangular hijab with wolfis material is not easily wrinkled and not dreamy, for those who like to wear a veil it is very suitable because they get a free veil.</string>
+    // Data mukenah
+    <string name="maxmar_printing_merek">maxmar printing</string>
+    <string name="maxmar_printing_model">Maxmar</string>
+    <string name="maxmar_printing_deskripsi">Mukenah maxmar is equipped with knitted lace with a width of 6 cm with an accent headband using a rope instead of rubber.</string>
+    <string name="rayon_renda_merek">Rayon Lace</string>
+    <string name="rayon_renda_model">Rayon catton</string>
+    <string name="rayon_renda_deskripsi">Mukenah adult cotton rayon is here for those of you who prioritize quality at a very cheap price but the quality of the material remains number one.</string>
+    <string name="katun_printing_merek">Patun Printing</string>
+    <string name="katun_printing_model">Alena catton</string>
+    <string name="katun_printing_deskripsi">Adult micro-printed cotton lace mukenah with non-rubber strap accents makes an elegant look.</string>
+    <string name="katun_rayon_merek">Rayon catton</string>
+    <string name="katun_rayon_model">Shifon Series</string>
+    <string name="katun_rayon_deskripsi">Mukenah bali adult premium cotton rayon lace is here for those of you who prioritize quality at an affordable price.</string>
+    <string name="katun_jumbo_merek">Jumbo catton</string>
+    <string name="katun_jumbo_model">catton</string>
+    <string name="katun_jumbo_deskripsi">Mukenah adult plain cotton jumbo raniyah series is here for those of you who are concerned with quality but at affordable prices but using materials that dot wrinkle easily and are not see-through.</string>
+    <string name="bordir_renda_merek">lace embroidery</string>
+    <string name="bordir_renda_model">Catton</string>
+    <string name="bordir_renda_deskripsi">adult mukenah lace embroidery using micro cotton material which is very similar to the mukenah Siti Hadijah.</string>
+    // Data profil
+    <string name="nama">Name  :</string>
+    <string name="nim">NIM  :</string>
+    <string name="prodi">Major  :</string>
+    <string name="alamat">Address :</string>
+</resources>

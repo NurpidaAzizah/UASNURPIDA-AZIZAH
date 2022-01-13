@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lenovo/Downloads/180201031__NURPIDA AZIZAH/NURPIDA AZIZAH_18020131/app/src/main/res/layout/activity_daftar_fashion.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/lenovo/Downloads/180201031__NURPIDA AZIZAH/NURPIDA AZIZAH_18020131/app/src/main/res/layout/activity_main.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/lenovo/Downloads/180201031__NURPIDA AZIZAH/NURPIDA AZIZAH_18020131/app/src/main/res/layout/activity_my_profile.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Downloads/180201031__NURPIDA AZIZAH/NURPIDA AZIZAH_18020131/app/src/main/res/layout/activity_profil_merek.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/lenovo/Downloads/180201031__NURPIDA AZIZAH/NURPIDA AZIZAH_18020131/app/src/main/res/layout/row_daftar_hewan.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/lenovo/Downloads/TUGA_UASPEMROGRAMANMOBILE/TUGA_NURPIDA-AZIZAH-main/app/src/main/res/layout/activity_daftar_fashion.xml" value="0.209375" />
+        <entry key="..\:/Users/lenovo/Downloads/TUGA_UASPEMROGRAMANMOBILE/TUGA_NURPIDA-AZIZAH-main/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/lenovo/Downloads/TUGA_UASPEMROGRAMANMOBILE/TUGA_NURPIDA-AZIZAH-main/app/src/main/res/layout/activity_profil_merek.xml" value="0.16" />
+        <entry key="..\:/Users/lenovo/Downloads/TUGA_UASPEMROGRAMANMOBILE/TUGA_NURPIDA-AZIZAH-main/app/src/main/res/layout/row_daftar_fashion.xml" value="0.209375" />
+        <entry key="..\:/Users/lenovo/Downloads/kucing-anjing-pedia-intentextra-main/kucing-anjing-pedia-intentextra-main/app/src/main/res/layout/activity_daftar_hewan.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/lenovo/Downloads/kucing-anjing-pedia-intentextra-main/kucing-anjing-pedia-intentextra-main/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Downloads/kucing-anjing-pedia-intentextra-main/kucing-anjing-pedia-intentextra-main/app/src/main/res/layout/activity_my_profile.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Downloads/kucing-anjing-pedia-intentextra-main/kucing-anjing-pedia-intentextra-main/app/src/main/res/layout/activity_profil_merek.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/lenovo/Downloads/kucing-anjing-pedia-intentextra-main/kucing-anjing-pedia-intentextra-main/app/src/main/res/layout/activity_profil_ras.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Downloads/kucing-anjing-pedia-intentextra-main/kucing-anjing-pedia-intentextra-main/app/src/main/res/layout/row_daftar_hewan.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

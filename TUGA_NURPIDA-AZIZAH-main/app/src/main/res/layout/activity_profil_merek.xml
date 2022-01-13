@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:background="@drawable/bccccc"
+    tools:context=".DaftarFashionActivity">
+
+    <TextView
+        android:id="@+id/txModel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Model Gamis"
+        android:textColor="#000000"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="24dp"
+        />
+
+    <ImageView
+        android:id="@+id/gambarFashion"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:src="@drawable/gamis_2"
+        android:scaleType="fitCenter"
+        android:layout_marginBottom="16dp"
+        />
+
+    <TextView
+        android:id="@+id/txModel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Model Fashion"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textSize="17sp"
+        />
+    <TextView
+        android:id="@+id/txMerek"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:textColor="#000000"
+        android:text="Merek" />
+    <TextView
+        android:id="@+id/txDeskripsi"
+        android:layout_marginTop="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:text="Deskripsi fashion" />
+
+    <LinearLayout
+        android:layout_marginTop="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        >
+    </LinearLayout>
+</LinearLayout>
